@@ -1,4 +1,4 @@
-<h1>Talon server with NestJS</h1>
+# Talon server with NestJS
 
 ## Description
 
