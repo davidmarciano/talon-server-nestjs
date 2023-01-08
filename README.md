@@ -13,6 +13,14 @@ The app has tested on dev environment, please run `npm start` in order to run it
 $ npm install
 ```
 
+## Environment Variables
+```bash
+MONGO_USER=""
+MONGO_PASS="" 
+MONGO_CLUSTER=""
+MONGO_DB_NAME=""
+```
+
 ## Running the app
 
 ```bash
