@@ -2,7 +2,9 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+The application is running on port 8080, make sure this port is free to use before you start the app.
+Before running the app you should install the `node_modules`, see `Installation`.
+The app has tested on dev environment, please run `npm start` in order to run it.
 
 ## Installation
 
